@@ -1,0 +1,41 @@
+# Antoine Barthoux
+
+![This is a alt text.](https://lh3.googleusercontent.com/a-/AOh14GhX7uR8GZ9L3xVigxJFmk_rfKqbIBuKZakuVsS_8A=s360-p-rw-no "This is a sample image.")
+
+## Détails Personnels
+
+Adresse e-mail : abarthoux@normandiewebschool.fr
+
+Numéro de téléphone : 06 43 11 44 69
+
+Adresse postale : 53 rue François Mitterrand, 76920 Amfreville-la-Mi-Voie
+
+## Compétences Linguistiques
+
+* Parle Anglais couramment
+
+* Se débrouille en espagnol
+
+* Possède des notions en latin et italiens
+
+## Hobbies
+
+* Féru d'histoire et géographie
+
+* Pratique du tennis de table
+
+* Pratique de la boxe
+
+## Formation
+
+* L1 d'Histoire à l'Université du Havre
+
+## Expériences professionnelles
+
+* Stage en 2016 à Informatique Brayon
+
+* Employé Polyvalent MacDonald en 2020
+
+## Bénévolat
+
+* Bénévolat dans une association sportive de tennis de table
